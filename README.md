@@ -31,7 +31,7 @@ We would like to thank the following resources and individuals for their contrib
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact us at [veyselgorgen@hotmail.com](mailto:veyselgorgen@hotmail.com).
+If you have any questions, suggestions, or feedback, please feel free to contact me at [veyselgorgen@hotmail.com](mailto:veyselgorgen@hotmail.com).
 
 Enjoy playing Ice Hockey Game!
 
